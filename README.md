@@ -10,8 +10,8 @@
 - 无序列表
 + 无序列表
 超链接：<www.baidu.com>  
-文本链接：[百度一下](www.baidu.com)  
-try to learn github  
-:fulsed:  
+文本链接：[百度一下](https://www.baidu.com)  
+try to learn github    
+:smirk:  
 :+1:
 
