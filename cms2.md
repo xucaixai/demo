@@ -54,14 +54,24 @@ git commit -m [message]提交暂存区到仓库
 
 20. 直接从工作区提交到仓库的命令  
 
-git commit -a -m [message]直接从工作区提交到仓库，前提该文件已经有仓库中的历史版本
+git commit -a -m [message]直接从工作区提交到仓库，前提该文件已经有仓库中的历史版本  
+
 21. 显示变更信息的命令  
-git status
-22. 查看历史信息的命令  
-git log
+
+git status  
+
+22. 查看历史信息的命令   
+
+git log  
+
 23. Commit的意义是  ：  
-提交？
+
+提交  
+
 24. Pull的意义是：  
-从github 远程仓库将文件转移到本地
-25. Push的意义是：  
+
+从github 远程仓库将文件转移到本地  
+
+25. Push的意义是：   
+
 将本地的文件传送到远程仓库
